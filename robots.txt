@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heizahsook.eliotlandrum.com/sitemap.xml
